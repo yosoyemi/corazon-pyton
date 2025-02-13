@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/maste/OneDrive/Desktop/corazon en pyton/media/videos/corazon/1080p60/partial_movie_files/Corazon/3529212410_3136486222_223132457.mp4'
+file 'file:C:/Users/maste/OneDrive/Desktop/corazon en pyton/media/videos/corazon/1080p60/partial_movie_files/Corazon/3040924799_2467329686_2162930541.mp4'
+file 'file:C:/Users/maste/OneDrive/Desktop/corazon en pyton/media/videos/corazon/1080p60/partial_movie_files/Corazon/3040924799_2844360058_851800027.mp4'
